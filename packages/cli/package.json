@@ -59,6 +59,6 @@
     "@types/xml2js": "^0.4.14",
     "tsc-watch": "^6.0.4",
     "typescript": "^5.0.4",
-    "webpack": "^5.86.0"
+    "webpack": "^5.95.0"
   }
 }
